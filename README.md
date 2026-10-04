@@ -1,6 +1,6 @@
-# Anti-Loop — downloads
+# StuDue — downloads
 
-Anti-Loop is a to-do list that ranks your tasks by what matters most, built
+StuDue is a to-do list that ranks your tasks by what matters most, built
 by BSCS 4C at ASU-Ibajay (Casidsid, Damo, Estolloso, Ricamonte).
 
 **Get the newest version from [Releases](../../releases/latest).**
