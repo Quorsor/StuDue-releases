@@ -9,7 +9,7 @@ by BSCS 4C at ASU-Ibajay (Casidsid, Damo, Estolloso, Ricamonte).
 | --- | --- |
 | Android (most phones) | `…-android-arm64-v8a.apk` |
 | Android (older 32-bit phones) | `…-android-armeabi-v7a.apk` |
-| Windows | `…-windows-portable.zip`: unzip, run `Anti-Loop.exe` |
+| Windows | `…-windows-portable.zip`: unzip, run `StuDue.exe` |
 | Linux | `…-linux.AppImage` |
 
 Installing on Android: open the apk, and allow your browser to install apps
